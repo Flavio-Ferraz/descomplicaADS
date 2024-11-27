@@ -23,6 +23,7 @@ h1{
 
 figure img{
     max-width: 960px;
+    border-radius: 8px;
 }
 
 footer h2 {
