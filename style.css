@@ -24,3 +24,10 @@ h1{
 figure img{
     max-width: 960px;
 }
+
+footer h2 {
+    margin-top: 90px;
+    font-style: italic;
+    font-size: 24px;
+    color: #bdb6b6
+}
